@@ -3,7 +3,8 @@
   margin: 0;
 }
 
-.dark-bg {
+.dark-bg,
+footer {
   background-color: #1f2937;
   color: #f9faf8;
 }
@@ -33,3 +34,9 @@
 /* .cta {
 
 } */
+
+footer {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
