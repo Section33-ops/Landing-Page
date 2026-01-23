@@ -9,9 +9,21 @@ footer {
   color: #f9faf8;
 }
 
-.top-bar * {
+.top-bar {
   color: #e5e7eb;
   font-size: 18px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.top-bar p {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.top-bar a {
+  color: #e5e7eb;
 }
 
 /* .hero {
