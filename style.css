@@ -27,11 +27,22 @@ footer {
 }
 
 .hero-container {
+  padding: 50px 100px;
   display: flex;
 }
 
-.hero {
-  padding: 30px 50px;
+/* .hero {
+} */
+
+.main-txt {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.secondary-txt {
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .placeholder {
@@ -42,9 +53,16 @@ footer {
   justify-content: center;
 }
 
-/* .button {
-
-} */
+.button {
+  background-color: #3882f6;
+  padding: 2px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  width: fit-content;
+}
 
 .info-sect {
   padding: 100px;
