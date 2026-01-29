@@ -12,18 +12,19 @@ footer {
 .top-bar {
   color: #e5e7eb;
   font-size: 18px;
+  padding: 10px 100px;
   display: flex;
-  justify-content: center;
-  margin-bottom: 50px;
+  justify-content: space-between;
 }
 
-.top-bar p {
+.header-logo {
   font-size: 24px;
   color: #f9faf8;
 }
 
-.top-bar a {
-  color: #e5e7eb;
+.header-links {
+  display: flex;
+  gap: 30px;
 }
 
 .hero-container {
@@ -40,7 +41,8 @@ footer {
   font-weight: 900;
 }
 
-.secondary-txt {
+.secondary-txt,
+.header-links a {
   font-size: 18px;
   color: #e5e7eb;
 }
