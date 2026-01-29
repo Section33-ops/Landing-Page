@@ -53,6 +53,18 @@ footer {
 .quote-sect {
   background-color: #e5e7eb;
   color: #1f2937;
+  padding: 70px 200px;
+}
+
+.quote-text {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 300px;
+}
+
+.quote-author {
+  font-weight: bolder;
+  text-align: end;
 }
 
 .cta-container {
