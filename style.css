@@ -46,9 +46,34 @@ footer {
 
 } */
 
-/* .info-sect {
+.info-sect {
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-} */
+.illustration-container {
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+
+.illustration {
+  border: #3882f6 solid 2px;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.illust-sub-container {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: small;
+}
 
 .quote-sect {
   background-color: #e5e7eb;
