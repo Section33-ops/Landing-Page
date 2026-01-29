@@ -26,9 +26,22 @@ footer {
   color: #e5e7eb;
 }
 
-/* .hero {
+.hero-container {
+  display: flex;
+}
 
-} */
+.hero {
+  padding: 30px 50px;
+  flex: 1;
+}
+
+.placeholder {
+  background-color: tan;
+  padding: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+}
 
 /* .button {
 
