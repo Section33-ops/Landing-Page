@@ -42,9 +42,9 @@ footer {
   justify-content: center;
 }
 
-/* .button {
-
-} */
+.button {
+  background-color: #3882f6;
+}
 
 /* .info-sect {
 
@@ -55,9 +55,9 @@ footer {
   color: #1f2937;
 }
 
-/* .cta {
-
-} */
+.cta {
+  background-color: #3882f6;
+}
 
 footer {
   padding: 20px;
